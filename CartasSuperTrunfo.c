@@ -2,18 +2,21 @@
 
 int main(){
 
-    char estado = "piauí";
-    char codigo = "A01";
-    char cidade = "teresina";
-    int população = 3.37;
-    float área = 251.529;
-    float pib = 3.12;
-    int turisticos = 20;
+    char estado
+    char codigo
+    char cidade
+    int população
+    float área
+    float pib
+    int turisticos
+
+    print("digite seu estado: \n");
+    scanf("%s", &estado);
 
 
 
 
 
-    
+
     return 0;
 }
