@@ -11,6 +11,7 @@ int main(){
     int turisticos
 
     print("digite seu estado: %c\n, estado");
+    scanf("%c", &estado);
     print("codigo: %c\n, codigo");
 
 
