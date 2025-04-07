@@ -10,8 +10,8 @@ int main(){
     float pib
     int turisticos
 
-    print("digite seu estado: \n");
-    scanf("%s", &estado);
+    print("digite seu estado: %c\n, estado");
+    print("codigo: %c\n, codigo");
 
 
 
