@@ -2,8 +2,8 @@
 
 int main(){
 
-    char estado = 'piauí';
-    char codigo = 'A01';
+    char estado = "piauí";
+    char codigo = "A01";
     char cidade = "teresina";
     int população = 3.37;
     float área = 251.529;
